@@ -2,7 +2,7 @@
     <img 
         src="https://file.garden/aAVebBm2KRQR_jcz/rockinkitty.gif" 
         alt="cat playing a guitar" 
-        width="45"
+        width="25"
     >
     Hi
 </h1>
