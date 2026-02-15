@@ -12,7 +12,11 @@
 <details>
     <summary><b>🍉 My cool stats</b></summary>
     <img 
-        src="https://github-readme-stats.vercel.app/api?username=lunarmelon&amp;show_icons=true&amp;theme=vision-friendly-dark" 
+        src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lunarmelon&show_icons=true"
         alt="Github stats"
     >
+</details>
+<details>
+  <summary><b>🔭Most used Languages</b></summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lunarmelon&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark&hide=HTML,CSS,JavaScript,EJS,Sass" alt="Most used languages">
 </details>
