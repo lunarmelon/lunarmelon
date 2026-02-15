@@ -18,5 +18,5 @@
 </details>
 <details>
   <summary><b>🔭Most used Languages</b></summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lunarmelon&langs_count=10&show_icons=true&locale=en&layout=compact&theme=catppuccin_mochak&hide=HTML,CSS,JavaScript,EJS,Sass" alt="Most used languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunarmelon&langs_count=10&show_icons=true&locale=en&layout=compact&theme=catppuccin_mochak&hide=HTML,CSS,JavaScript,EJS,Sass" alt="Most used languages">
 </details>
